@@ -13,7 +13,7 @@ The project has 3 user types: observer, administrative, researcher. The observer
 * Plant Name: Text Field
 * Soil Type: Dropbox (limited choices)
 * Weather: Text field (requirement) - (api if time allows)
-* Location: Geoscope Api
+* Location: Text field (requirement) -(Geoscope api if time allows)
 * Additional Notes: Text Field
 
 ##The researcher needs to be able to quickly access via clicking on a link. ##
