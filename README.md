@@ -100,6 +100,7 @@ Relationships:
 * Generalization: 	N/A
 
 Normal Flow of Events:
+
 1.	Researcher logs in
 2.	Researcher clicks link to download excel format document (they can sort/organize using Excel)
 
