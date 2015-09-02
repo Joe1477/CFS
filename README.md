@@ -60,10 +60,10 @@ Relationships:
 * Generalization: 	N/A
 
 Normal Flow of Events:
-1.	Observer decides to document flora
-2.	Observer picks up mobile device to document flora
-3.	Observer fills out information deemed important for proper documentation
-4.	Observer submits data
+1. Observer decides to document flora
+2. Observer picks up mobile device to document flora
+3. Observer fills out information deemed important for proper documentation
+4. Observer submits data
 
 SubFlows:
 * S-1: Current Documentation
