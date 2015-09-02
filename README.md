@@ -32,3 +32,45 @@ Use Case Scenarios are attached to user Joe1477 under Flora-Project.
 ###Team members on CFS are###
 
 Carolyn Ownby, Joe Schumacher, Matt Dickal.
+
+#Use Case#
+
+###Use Case Submit Data###
+
+* Use Case Name:	Client
+* Submit Data	ID: 2
+* Importance Level: High
+* Primary Actor: Client	
+* Use Case Type: Essential
+
+Stakeholders and Interests: 	
+* Client: person who wants to make note of our floral resources for the environment
+* Administrator: Someone who wants to keep things organized
+* Researches: People who want to use the data for scientific observations
+
+Brief Description: This use case describes how user submits data
+	
+Trigger: Client comes across flora/patterns they think are worth documenting
+*Type:	External
+
+Relationships: 
+* Association:	Client
+* Include:	Document flora information	
+* Extend:	N/A	
+* Generalization: 	N/A
+
+Normal Flow of Events:
+1.	Client decides to document flora
+2.	Client picks up mobile device to document flora
+3.	Client fills out information deemed important for proper documentation
+4.	Client submits data
+
+SubFlows:
+S-1:	 Current Documentation
+*	Data is timestamped for accuracy and ease
+S-2:	 Outdate Documentation
+* Client is given a Date/Time field.
+
+Alternate/Exceptional Flows
+N/A
+
