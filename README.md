@@ -66,10 +66,10 @@ Normal Flow of Events:
 4.	Observer submits data
 
 SubFlows:
-*S-1:	 Current Documentation
-*1	Data is timestamped for accuracy and ease
-S-2:	 Outdate Documentation
-*	Observer is given a Date/Time field.
+* S-1: Current Documentation
+	* 1 Data is timestamped for accuracy and ease
+* S-2:  Outdate Documentation
+	* Observer is given a Date/Time field.
 
 Alternate/Exceptional Flows
 N/A
