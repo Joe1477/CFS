@@ -9,7 +9,7 @@ The project has 3 user types: observer, administrative, researcher. The observer
 
 #What#
 ##The observer is just gathering and submitting information: ##
-* Unique ID: automated per transaction (alpha numeric) 
+* Unique ID: automated per transaction (alpha numeric)
 * Date/Time: if current timestamp else ask for date/time
 * Name: Text Field
 * Plant Name: Text Field
@@ -30,3 +30,7 @@ The project has 3 user types: observer, administrative, researcher. The observer
 To complete this setup we will be using html, css, php, and mysql. The database will be mysql as that’s what the administrator is familiar with. We will first build the front-end to gather the information, then proceed with the backend to create the database, and finally link it together. If time allows we will use an additional third party API to streamline the process.
 
 Use Case Scenarios are attached to user Joe1477 under Flora-Project.
+
+###Team members on CFS are###
+
+Carolyn Ownby, Joe Schumacher, Matt Dickal.
