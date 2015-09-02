@@ -77,16 +77,16 @@ N/A
 
 ###Use Case Data Retrieval###
 
-Use Case Name:	Researcher
-Submit Data	ID: 2
-Importance Level: High
-Primary Actor: Researcher	
-Use Case Type: Essential
+* Use Case Name:	Researcher
+* Submit Data	ID: 2
+* Importance Level: High
+* Primary Actor: Researcher	
+* Use Case Type: Essential
 
-Stakeholders and Interests: 	
-Client: person who wants to make note of our floral resources for the environment
-Administrator: Someone who wants to keep things organized
-Researches: People who want to use the data for scientific observations
+Stakeholders and Interests:
+* Client: person who wants to make note of our floral resources for the environment
+* Administrator: Someone who wants to keep things organized
+* Researches: People who want to use the data for scientific observations
 
 Brief Description: This use case describes researchers retrieve data
 		
