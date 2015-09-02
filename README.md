@@ -106,7 +106,7 @@ Normal Flow of Events:
 
 
 SubFlows:
-S-1:	 N/A
+* S-1:	 N/A
 
 Alternate/Exceptional Flows
 N/A
